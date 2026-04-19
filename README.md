@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @mchlcs
-- 👀 I’m interested in python and financial market
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Michel | Servidor Público & Dev em Formação
 
-<!---
-michelcsasznik/michelcsasznik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Estudante de ADS na FIAP · Manaus, AM 🇧🇷
+
+## 🔧 Stack em construção
+- Python · Oracle SQL · Java etc
+- Automação com IA (Claude Code, n8n)
+- Google Workspace · SEI
+
+## 📌 Projetos em destaque
+- 📊 ETF Reports — relatórios de due diligence para ETFs BR/US
+- 🎓 Concurso Dashboard — painel de estudos integrado ao NotebookLM
+
+## 📚 Estudando agora
+ADS · Oracle SQL · Java · AI Agents · Claude Code · Python
+
+## 🌍 Interesses
+Travel hacking · ETF investing · MTG Arena · Fotografia (DJI Osmo Pocket 3)
