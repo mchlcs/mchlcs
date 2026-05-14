@@ -50,9 +50,8 @@
 
 | Project | Description | Tech | Links |
 |---------|-------------|------|-------|
-| **ETF Reports** | Due diligence reporting system for Brazilian and US exchange-traded funds | Python, Oracle SQL, n8n | [→ Repo](https://github.com/mchlcs) |
-| **Concurso Dashboard** | Study tracking panel integrated with NotebookLM for exam preparation | Claude Code, Google Sheets | [→ Repo](https://github.com/mchlcs) |
-| **Personal Vault** | Second brain knowledge management system with 120+ sources | Obsidian, Markdown | [→ Vault](https://github.com/mchlcs) |
+| **Nexus Agent System** | 7-agent orchestration system with governed constitution, cost-aware model routing, and Obsidian-native prompts | Claude Code, Python, Obsidian | [→ Repo](https://github.com/mchlcs/nexus-agent-system) |
+| **Claude Automations** | Skills and routines for Claude Code with integrated Obsidian vault workflows | Claude Code, Python, Bash | [→ Repo](https://github.com/mchlcs/claude-automations) |
 
 ---
 
