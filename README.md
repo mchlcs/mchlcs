@@ -50,7 +50,7 @@
 
 | Project | Description | Tech | Links |
 |---------|-------------|------|-------|
-| **Fullstack Agent System** | 6-agent senior dev team — Maestro · Stratum · Facet · Bastion · Neuron · Sentinel — with model-aware routing (60–75% cost savings) and File-as-Bus coordination | Claude Code, Opus 4.7, Sonnet 4.6 | [→ Repo](https://github.com/mchlcs/agente-fullstack) |
+| **Fullstack Agent System** | 6-agent senior dev team — Maestro · Stratum · Facet · Bastion · Neuron · Sentinel — with model-aware routing (60–75% cost savings) and File-as-Bus coordination | Claude Code, Opus 4.7, Sonnet 4.6 | [→ Repo](https://github.com/mchlcs/fullstack-agent) |
 | **Nexus Agent System** | 7-agent orchestration system with governed constitution, cost-aware model routing, and Obsidian-native prompts | Claude Code, Python, Obsidian | [→ Repo](https://github.com/mchlcs/nexus-agent-system) |
 | **Claude Automations** | Skills and routines for Claude Code with integrated Obsidian vault workflows | Claude Code, Python, Bash | [→ Repo](https://github.com/mchlcs/claude-automations) |
 
