@@ -23,24 +23,24 @@
 
 ## 🚀 Tech Stack
 
-**Languages**  
+**Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**AI & Automation**  
+**AI & Automation**
 ![Claude](https://img.shields.io/badge/Claude%20Code-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-DF1E00?style=flat-square&logo=n8n&logoColor=white)
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=flat-square&logo=google&logoColor=white)
 
-**Platforms & Tools**  
+**Platforms & Tools**
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Google%20Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
 ![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
 
-**Currently Learning**  
+**Currently Learning**
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
@@ -50,6 +50,7 @@
 
 | Project | Description | Tech | Links |
 |---------|-------------|------|-------|
+| **Fullstack Agent System** | 6-agent senior dev team — Maestro · Stratum · Facet · Bastion · Neuron · Sentinel — with model-aware routing (60–75% cost savings) and File-as-Bus coordination | Claude Code, Opus 4.7, Sonnet 4.6 | [→ Repo](https://github.com/mchlcs/agente-fullstack) |
 | **Nexus Agent System** | 7-agent orchestration system with governed constitution, cost-aware model routing, and Obsidian-native prompts | Claude Code, Python, Obsidian | [→ Repo](https://github.com/mchlcs/nexus-agent-system) |
 | **Claude Automations** | Skills and routines for Claude Code with integrated Obsidian vault workflows | Claude Code, Python, Bash | [→ Repo](https://github.com/mchlcs/claude-automations) |
 
